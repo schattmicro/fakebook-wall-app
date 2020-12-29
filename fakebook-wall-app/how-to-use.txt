@@ -1,0 +1,15 @@
+How to use
+----------
+
+Install latest version of mongodb locally or provision MongoDB database on ATLAS cloud
+
+Install latest version of node
+
+Make sure you use the latest version of the Angular CLI
+
+Modify the environment variable values in .env file as per the environment configuration
+
+Run "npm run start:backend" inside root project folder to start the express node API backend
+
+Run "npm run start:frontend" inside root project folder in a separate terminal to build
+, start and launch angular front end in default web browser

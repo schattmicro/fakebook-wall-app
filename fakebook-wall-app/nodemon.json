@@ -1,0 +1,10 @@
+{
+  "env": {
+    "IS_MONGO_CLOUD": false,
+    "MONGO_ATLAS_UID": "" ,
+    "MONGO_ATLAS_PW": "",
+    "MONGO_ATLAS_URL": "@cluster0-ntrwp.mongodb.net/my-app-db",
+    "JWT_KEY": "secret_this_should_be_longer_and_encrypted",
+    "LOCAL_MONGO_DB": "mongodb://localhost:27017/myapp"
+  }
+}
